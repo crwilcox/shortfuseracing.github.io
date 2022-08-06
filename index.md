@@ -7,17 +7,17 @@ layout: page
 ---
 
 <!-- ![](img/76825961-IMG_5971-cropped2.jpeg) -->
-![](/img/short-fuse-racing.jpg)
+![](/img/Short-Fuse-Racing-logo-left-bomb.png)
+
 
 Short Fuse Racing is a Washington based racing team that has participated in
  events with various motorcycle racing organizations such as WMRRA, OMRRA, CRA,
  AFM, and more.
 
 
-![](/img/Short-Fuse-Racing-logo-left-bomb.png)
+![](/img/team-photo.jpg)
 
 
 
 
     
-
