@@ -36,12 +36,18 @@ When not racing Chris works with [Track Time](https://tracktime.bike/), a premie
 
 ### Seppi Hutter
 
+![](/img/seppi.jpg)
+
 ### Mark Szilveszter
 
 ### Jeremy Goddard
 
 ### Paul McComsey
 
+![](/img/paul.jpg)
 
+Paul McComsey raced his first two years with CVMA on an SV650, then spent a further 9 years with WMRRA on his SV & Daytona 675.
+
+Now retired from racing, you'll still find Paul in the Short Fuse pits as the official crew chief and pasta chef.
 
     
