@@ -32,7 +32,13 @@ When not racing Chris works with [Track Time](https://tracktime.bike/), a premie
 
 ### Colin Carihill
 
+<img src="/img/colin.jpg" height=500 />
+
+
 ### Dave Pearce
+
+<img src="/img/dave.jpg" height=500 />
+
 
 ### Seppi Hutter
 
@@ -43,8 +49,10 @@ Seppi Hutter currently races a 2016 Yamaha R3 in WMRRA’s Ultralightweight clas
 Seppi has built two Triumph Daytona 675’s, a Kawasaki Ninja 250, Yamaha R3 and is currently building a Suzuki SV 650.
 
 ### Mark Szilveszter
+![](/img/mark.jpg)
 
 ### Jeremy Goddard
+![](/img/jeremy.jpg)
 
 ### Paul McComsey
 
