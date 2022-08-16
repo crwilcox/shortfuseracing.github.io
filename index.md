@@ -38,6 +38,10 @@ When not racing Chris works with [Track Time](https://tracktime.bike/), a premie
 
 ![](/img/seppi.jpg)
 
+Seppi Hutter currently races a 2016 Yamaha R3 in WMRRA’s Ultralightweight class.  His track riding / racing career started when he purchased a blue street Triumph Daytona 675 from Team Founder Paul McComsey and Paul asked him “Have you ever been to a race track before?”  A dedicated track bike was bought within months of that question and the addiction was started.
+
+Seppi has built two Triumph Daytona 675’s, a Kawasaki Ninja 250, Yamaha R3 and is currently building a Suzuki SV 650.
+
 ### Mark Szilveszter
 
 ### Jeremy Goddard
