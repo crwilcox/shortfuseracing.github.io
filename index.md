@@ -35,11 +35,6 @@ When not racing Chris works with [Track Time](https://tracktime.bike/), a premie
 <img src="/img/colin.jpg" height=500 />
 
 
-### Dave Pearce
-
-<img src="/img/dave.jpg" height=500 />
-
-
 ### Seppi Hutter
 
 ![](/img/seppi.jpg)
@@ -54,6 +49,16 @@ Seppi is also the avid bike builder. Seppi holds the team record for unique race
 
 ### Mark Szilveszter
 ![](/img/mark.jpg)
+
+
+### Dave Pearce (Emeritus)
+Emeritus: August 2022
+
+<img src="/img/dave.jpg" height=500 />
+
+Dave Pearce races aboard a 2015 R3 and a Triumph 675R. Dave leads the team in
+podiums and is an OMRRA Class Champion.
+
 
 ### Paul McComsey (Emeritus)
 Emeritus: August 2021
