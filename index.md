@@ -58,12 +58,12 @@ Chris is also a long-time volunteer of WMRRA and serves on its Board of Director
 
 When not racing Chris works with [Track Time](https://tracktime.bike/), a premier track day provider in Washington State.
 
-### Colin Carihill [Short Circuit Racing](https://shortcircuitracing.com)
+### Colin Carihill (Emeritus) [Short Circuit Racing](https://shortcircuitracing.com)
 
 <img src="/img/colin.jpg" height=500 />
 
 
-### Dave Pearce (Emeritus)
+### Dave Pearce (Emeritus) Retired
 Emeritus: August 2022
 
 <img src="/img/dave.jpg" height=500 />
@@ -71,7 +71,7 @@ Emeritus: August 2022
 Dave Pearce races aboard a 2015 R3 and a Triumph 675R. Dave leads the team in
 podiums and is an OMRRA Class Champion.
 
-### Jeremy Goddard (Emeritus)
+### Jeremy Goddard (Emeritus) Retired
 Emeritus: August 2021
 
 ![](/img/jeremy.jpg)
