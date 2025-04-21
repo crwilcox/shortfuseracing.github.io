@@ -21,20 +21,14 @@ It has a sister team, [Short Circuit Racing](https://shortcircuitracing.com).
 
 ## Team
 
-### [Chris Wilcox](https://chriswilcox.racing/)
 
-![](/img/chris-2021-gearing-up.jpg)
+### Paul McComsey
 
-Chris Wilcox is a regional road racer participating in [WMRRA](https://wmrra.com) (Washington Motorcycle Road Racing Association) and [OMRRA](https://omrra.com) (Oregon Motorcycle Road Racing Association), participating in Formula 600, 600 Supersport, and 600 Superbike clases.
+![](/img/paul.jpg)
 
-Chris is also a long-time volunteer of WMRRA and serves on its Board of Directors. You can find him most race weekends at Friday night tech, making sure machinery and gear are in order for the weekend's events.
+Paul McComsey raced his first two years with CVMA on an SV650, then spent a further 9 years with WMRRA on his SV & Daytona 675.
 
-When not racing Chris works with [Track Time](https://tracktime.bike/), a premier track day provider in Washington State.
-
-### Colin Carihill
-
-<img src="/img/colin.jpg" height=500 />
-
+He retired from 2021-2024 but has come back racing for 2025! You can find Paul in the Short Fuse pits as the official crew chief and pasta chef.
 
 ### Seppi Hutter
 
@@ -52,6 +46,23 @@ Seppi is also the avid bike builder. Seppi holds the team record for unique race
 ![](/img/mark.jpg)
 
 
+## Emeritus Members
+
+### [Chris Wilcox](https://chriswilcox.racing/) (Emeritus) [Short Circuit Racing](https://shortcircuitracing.com)
+
+![](/img/chris-2021-gearing-up.jpg)
+
+Chris Wilcox is a regional road racer participating in [WMRRA](https://wmrra.com) (Washington Motorcycle Road Racing Association) and [OMRRA](https://omrra.com) (Oregon Motorcycle Road Racing Association), participating in Twins Classes aboard an Aprilia RS660. He previously raced Formula 600, 600 Supersport, and 600 Superbike classes.
+
+Chris is also a long-time volunteer of WMRRA and serves on its Board of Directors. You can find him most race weekends at Friday night tech, making sure machinery and gear are in order for the weekend's events.
+
+When not racing Chris works with [Track Time](https://tracktime.bike/), a premier track day provider in Washington State.
+
+### Colin Carihill [Short Circuit Racing](https://shortcircuitracing.com)
+
+<img src="/img/colin.jpg" height=500 />
+
+
 ### Dave Pearce (Emeritus)
 Emeritus: August 2022
 
@@ -59,16 +70,6 @@ Emeritus: August 2022
 
 Dave Pearce races aboard a 2015 R3 and a Triumph 675R. Dave leads the team in
 podiums and is an OMRRA Class Champion.
-
-
-### Paul McComsey (Emeritus)
-Emeritus: August 2021
-
-![](/img/paul.jpg)
-
-Paul McComsey raced his first two years with CVMA on an SV650, then spent a further 9 years with WMRRA on his SV & Daytona 675.
-
-Now retired from racing, you'll still find Paul in the Short Fuse pits as the official crew chief and pasta chef.
 
 ### Jeremy Goddard (Emeritus)
 Emeritus: August 2021
